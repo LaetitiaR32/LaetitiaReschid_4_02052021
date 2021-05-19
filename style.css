@@ -565,7 +565,7 @@ a[data-lightbox]:hover::before {
     font-size: 32px;
     width: 50px;
     height: 50px;
-    margin-left: -25px;
+    margin-left: 43%;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
     color: #FFF;
@@ -597,6 +597,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal .modal-dialog img {
     max-height: 90vh;
     margin: 0 auto;
+    width: 100%;
 }
 
 .lightbox-caption {
@@ -864,7 +865,10 @@ h4 {
     }
 }
 #lightbox-modal .modal-dialog {
-    width: 34%;
+    width: 41%;
+}
+#lightbox-modal .modal-dialog img {
+    width: 100%;
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
@@ -884,6 +888,9 @@ h4 {
         background-attachment: scroll;
     }
 }
+#lightbox-modal .modal-dialog {
+    width: 51%;
+}
 
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
     .b-parallax {
@@ -891,7 +898,7 @@ h4 {
     }
 }
 #lightbox-modal .modal-dialog {
-    width: 27%;
+    width: 50%;
 }
 
 @media (max-width: 991px) {
@@ -1068,9 +1075,15 @@ h4 {
         padding-right: 0;
     }
 }
+#lightbox-modal .modal-dialog {
+    width: 80%;
+}
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+#lightbox-modal .modal-dialog {
+    width: 41%;
 }
