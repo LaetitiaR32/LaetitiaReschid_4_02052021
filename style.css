@@ -863,6 +863,9 @@ h4 {
         padding-right: 0;
     }
 }
+#lightbox-modal .modal-dialog {
+    width: 34%;
+}
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
@@ -871,6 +874,9 @@ h4 {
     .nav-center.navbar .nav {
         max-width: 100%
     }
+}
+#lightbox-modal .modal-dialog {
+    width: 35%;
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -883,6 +889,9 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
+}
+#lightbox-modal .modal-dialog {
+    width: 27%;
 }
 
 @media (max-width: 991px) {
