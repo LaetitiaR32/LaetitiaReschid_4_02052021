@@ -457,7 +457,15 @@ nav .caret {
     margin: 6px -5px 0 0!important;
     float: right;
 }
-
+.title1 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* font-size: 17px; */
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
