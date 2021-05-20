@@ -508,6 +508,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    padding: 21px;
 }
 
 .icon-lg {
@@ -709,7 +710,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
