@@ -819,6 +819,20 @@ h4 {
     font-size: 19px;
 
 }
+.text-white {
+    color: #575757;
+    font-size: 19px;
+    text-align: center;
+
+}
+.text-white1 {
+    color: #575757;
+    font-size: 19px;
+    max-width: 600px;
+    margin: auto auto auto auto;
+    text-align: center;
+
+}
 
 .btn-atomic-tangerine {
     background: #e08f68;
