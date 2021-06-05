@@ -684,7 +684,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -725,7 +725,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #6b0303!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -756,11 +756,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #6b0303!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: #6b0303!important;
 }
 
 .icons {
@@ -772,7 +772,7 @@ h4 {
     color: #FFFFFF!important;
 }
 .titre-footer {
-    color: #FFFFFF!important;
+    color: #6b0303!important;
     text-align: center;
     padding-left: 10px!important;
     padding-right: 10px!important;
@@ -815,18 +815,18 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #6b0303!important;
     font-size: 19px;
 
 }
 .text-white {
-    color: #575757;
+    color: #6b0303;
     font-size: 19px;
     text-align: center;
 
 }
 .text-white1 {
-    color: #575757;
+    color: #6b0303;
     font-size: 19px;
     max-width: 600px;
     margin: auto auto auto auto;
@@ -836,7 +836,6 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #e08f68;
-    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
