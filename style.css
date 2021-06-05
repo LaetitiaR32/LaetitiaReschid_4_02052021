@@ -687,7 +687,7 @@ a {
     color: #575757;
 }
 .col-sm-4 a {
-    color: #6b0303;
+    color: #6b0303!important;
 }
 .container {
     max-width: 1000px;
