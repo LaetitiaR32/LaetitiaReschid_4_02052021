@@ -686,7 +686,9 @@ a {
     font-weight: 400;
     color: #575757;
 }
-
+.col-sm-4 a {
+    color: #6b0303;
+}
 .container {
     max-width: 1000px;
 }
